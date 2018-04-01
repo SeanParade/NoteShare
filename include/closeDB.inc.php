@@ -1,0 +1,3 @@
+<?php
+
+$dbCon = null;

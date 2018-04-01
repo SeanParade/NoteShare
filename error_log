@@ -1,0 +1,1248 @@
+[17-Nov-2016 22:26:24 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dylan'@'localhost' (using password: YES) in /home/f6team25/public_html/include/connectDB.inc.php on line 11
+[17-Nov-2016 22:26:26 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dylan'@'localhost' (using password: YES) in /home/f6team25/public_html/include/connectDB.inc.php on line 11
+[17-Nov-2016 22:31:26 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dylan'@'localhost' (using password: YES) in /home/f6team25/public_html/include/connectDB.inc.php on line 11
+[18-Nov-2016 04:56:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:16) in /home/f6team25/public_html/loginUser.php on line 17
+[18-Nov-2016 04:57:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:16) in /home/f6team25/public_html/loginUser.php on line 17
+[18-Nov-2016 16:24:19 UTC] PHP Fatal error:  Using $this when not in object context in /home/f6team25/public_html/createGroup.php on line 17
+[18-Nov-2016 18:48:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team25/public_html/populateNav.php on line 9
+[18-Nov-2016 18:48:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team25/public_html/populateNav.php on line 9
+[18-Nov-2016 18:48:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team25/public_html/populateNav.php on line 9
+[18-Nov-2016 18:52:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team25/public_html/populateNav.php on line 10
+[18-Nov-2016 18:52:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team25/public_html/populateNav.php on line 10
+[18-Nov-2016 18:58:10 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[18-Nov-2016 18:58:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[18-Nov-2016 18:58:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[18-Nov-2016 18:58:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[18-Nov-2016 18:58:50 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[18-Nov-2016 18:58:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[18-Nov-2016 18:59:00 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[18-Nov-2016 18:59:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[18-Nov-2016 22:43:34 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[18-Nov-2016 22:43:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[18-Nov-2016 22:43:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[18-Nov-2016 22:43:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[19-Nov-2016 06:22:29 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[19-Nov-2016 06:22:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[19-Nov-2016 21:26:38 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[19-Nov-2016 21:26:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[19-Nov-2016 22:03:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[19-Nov-2016 22:03:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[19-Nov-2016 22:07:25 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[19-Nov-2016 22:07:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[19-Nov-2016 22:15:09 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[19-Nov-2016 22:15:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[20-Nov-2016 00:44:09 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[20-Nov-2016 00:44:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[20-Nov-2016 20:12:52 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[20-Nov-2016 20:12:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[21-Nov-2016 20:33:11 UTC] PHP Warning:  mkdir(): File exists in /home/f6team25/public_html/addNote.php on line 11
+[21-Nov-2016 20:33:59 UTC] PHP Warning:  mkdir(): File exists in /home/f6team25/public_html/addNote.php on line 11
+[21-Nov-2016 20:35:36 UTC] PHP Fatal error:  Function name must be a string in /home/f6team25/public_html/createAccount.php on line 32
+[21-Nov-2016 20:36:22 UTC] PHP Fatal error:  Function name must be a string in /home/f6team25/public_html/createAccount.php on line 32
+[21-Nov-2016 20:36:30 UTC] PHP Fatal error:  Function name must be a string in /home/f6team25/public_html/createAccount.php on line 32
+[21-Nov-2016 20:37:21 UTC] PHP Fatal error:  Function name must be a string in /home/f6team25/public_html/createAccount.php on line 33
+[21-Nov-2016 20:38:04 UTC] PHP Fatal error:  Function name must be a string in /home/f6team25/public_html/createAccount.php on line 33
+[21-Nov-2016 20:38:08 UTC] PHP Fatal error:  Function name must be a string in /home/f6team25/public_html/createAccount.php on line 33
+[21-Nov-2016 20:39:23 UTC] PHP Fatal error:  Function name must be a string in /home/f6team25/public_html/createAccount.php on line 33
+[21-Nov-2016 20:39:32 UTC] PHP Fatal error:  Function name must be a string in /home/f6team25/public_html/createAccount.php on line 33
+[21-Nov-2016 21:00:41 UTC] PHP Warning:  mkdir(): File exists in /home/f6team25/public_html/addNote.php on line 11
+[21-Nov-2016 21:00:45 UTC] PHP Warning:  mkdir(): File exists in /home/f6team25/public_html/addNote.php on line 11
+[21-Nov-2016 21:06:38 UTC] PHP Fatal error:  Function name must be a string in /home/f6team25/public_html/createAccount.php on line 34
+[21-Nov-2016 21:07:18 UTC] PHP Warning:  mkdir(): No such file or directory in /home/f6team25/public_html/createAccount.php on line 34
+[21-Nov-2016 21:07:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/createAccount.php:33) in /home/f6team25/public_html/createAccount.php on line 38
+[21-Nov-2016 21:07:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/createAccount.php:33) in /home/f6team25/public_html/createAccount.php on line 38
+[21-Nov-2016 21:11:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/createAccount.php:33) in /home/f6team25/public_html/createAccount.php on line 38
+[21-Nov-2016 21:11:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/createAccount.php:33) in /home/f6team25/public_html/createAccount.php on line 38
+[21-Nov-2016 21:11:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/createAccount.php:33) in /home/f6team25/public_html/createAccount.php on line 38
+[21-Nov-2016 21:22:05 UTC] PHP Parse error:  syntax error, unexpected 'strtotime' (T_STRING) in /home/f6team25/public_html/addNote.php on line 2
+[21-Nov-2016 21:22:23 UTC] PHP Parse error:  syntax error, unexpected 'strtotime' (T_STRING) in /home/f6team25/public_html/addNote.php on line 2
+[21-Nov-2016 21:22:25 UTC] PHP Parse error:  syntax error, unexpected 'strtotime' (T_STRING) in /home/f6team25/public_html/addNote.php on line 2
+[22-Nov-2016 22:03:13 UTC] PHP Fatal error:  Class 'Note' not found in /home/f6team25/public_html/submitTextNote.php on line 17
+[22-Nov-2016 22:12:42 UTC] PHP Fatal error:  Cannot use [] for reading in /home/f6team25/public_html/populateNav.php on line 22
+[22-Nov-2016 22:12:55 UTC] PHP Fatal error:  Cannot use [] for reading in /home/f6team25/public_html/populateNav.php on line 22
+[22-Nov-2016 22:12:56 UTC] PHP Fatal error:  Cannot use [] for reading in /home/f6team25/public_html/populateNav.php on line 22
+[23-Nov-2016 02:10:27 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/f6team25/public_html/nav.php on line 21
+[23-Nov-2016 02:15:32 UTC] PHP Catchable fatal error:  Object of class Note could not be converted to string in /home/f6team25/public_html/nav.php on line 24
+[23-Nov-2016 02:19:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team25/public_html/submitTextNote.php:1) in /home/f6team25/public_html/submitTextNote.php on line 2
+[23-Nov-2016 02:19:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:1) in /home/f6team25/public_html/submitTextNote.php on line 23
+[23-Nov-2016 02:19:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team25/public_html/submitTextNote.php:1) in /home/f6team25/public_html/submitTextNote.php on line 2
+[23-Nov-2016 02:19:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:1) in /home/f6team25/public_html/submitTextNote.php on line 23
+[23-Nov-2016 02:20:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:1) in /home/f6team25/public_html/submitTextNote.php on line 23
+[23-Nov-2016 02:20:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team25/public_html/submitTextNote.php:1) in /home/f6team25/public_html/populateNav.php on line 2
+[23-Nov-2016 02:21:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team25/public_html/submitTextNote.php:1) in /home/f6team25/public_html/submitTextNote.php on line 2
+[23-Nov-2016 02:21:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team25/public_html/submitTextNote.php:1) in /home/f6team25/public_html/populateNav.php on line 2
+[23-Nov-2016 02:21:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team25/public_html/submitTextNote.php:1) in /home/f6team25/public_html/populateNav.php on line 2
+[23-Nov-2016 02:23:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team25/public_html/submitTextNote.php:1) in /home/f6team25/public_html/submitTextNote.php on line 2
+[23-Nov-2016 03:03:03 UTC] PHP Warning:  file_put_contents(../userFiles/MTg4ZDM0N/NzFmMjI2Z): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 19
+[23-Nov-2016 03:03:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:19) in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 03:05:32 UTC] PHP Warning:  file_put_contents(../userFiles/MTg4ZDM0N/NGVhOTY3Z): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 20
+[23-Nov-2016 03:05:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:20) in /home/f6team25/public_html/submitTextNote.php on line 26
+[23-Nov-2016 03:06:00 UTC] PHP Warning:  file_put_contents(../userFiles/MTg4ZDM0N/NDRlYjc0Y.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 20
+[23-Nov-2016 03:06:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:20) in /home/f6team25/public_html/submitTextNote.php on line 26
+[23-Nov-2016 03:07:23 UTC] PHP Warning:  file_put_contents(/userFilesMTg4ZDM0N/NWZiYmJiM.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 19
+[23-Nov-2016 03:07:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:19) in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 03:07:43 UTC] PHP Warning:  file_put_contents(/userFiles/MTg4ZDM0N/MzM3YTAzM.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 19
+[23-Nov-2016 03:07:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:19) in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 03:09:16 UTC] PHP Warning:  file_put_contents(f6team25.gblearn.com/home/f6team25/userFiles/MTg4ZDM0N/NWE1ZmI0M.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 19
+[23-Nov-2016 03:09:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:19) in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 03:09:32 UTC] PHP Warning:  file_put_contents(http://f6team25.gblearn.com/home/f6team25/userFiles/MTg4ZDM0N/YTE4MzU2Z.md): failed to open stream: HTTP wrapper does not support writeable connections in /home/f6team25/public_html/submitTextNote.php on line 19
+[23-Nov-2016 03:09:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:19) in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 03:13:05 UTC] PHP Warning:  file_put_contents(http://f6team25.gblearn.com/home/f6team25/userFiles/MTg4ZDM0N/NDUyMmNhN.md): failed to open stream: HTTP wrapper does not support writeable connections in /home/f6team25/public_html/submitTextNote.php on line 19
+[23-Nov-2016 03:13:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:19) in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 03:13:26 UTC] PHP Warning:  file_put_contents(..//userFiles/MTg4ZDM0N/NTJiZDdhM.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 19
+[23-Nov-2016 03:13:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:19) in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 03:21:22 UTC] PHP Warning:  file_put_contents(../userFiles/MTg4ZDM0N/testing dylan.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 19
+[23-Nov-2016 03:21:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:19) in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 03:28:03 UTC] PHP Warning:  file_put_contents(../userFiles/ZTVlOWRjN/bleh.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 19
+[23-Nov-2016 03:28:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:19) in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 03:31:22 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/f6team25/public_html/logout.php on line 2
+[23-Nov-2016 03:31:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/logout.php:2) in /home/f6team25/public_html/logout.php on line 3
+[23-Nov-2016 03:33:31 UTC] PHP Warning:  file_put_contents(../userFiles/YThjNWM4O/bleh.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 19
+[23-Nov-2016 03:33:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:19) in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 06:31:37 UTC] PHP Warning:  file_put_contents(../userFiles/MTc5ODU1Y/tester.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 20
+[23-Nov-2016 06:31:37 UTC] PHP Warning:  file_put_contents(../userFiles/MTc5ODU1Y/tester.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 22
+[23-Nov-2016 06:31:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:20) in /home/f6team25/public_html/submitTextNote.php on line 28
+[23-Nov-2016 06:32:00 UTC] PHP Warning:  file_put_contents(../userFiles/MTc5ODU1Y/tester.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 20
+[23-Nov-2016 06:32:00 UTC] PHP Warning:  file_put_contents(../userFiles/MTc5ODU1Y/tester.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 22
+[23-Nov-2016 06:32:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:20) in /home/f6team25/public_html/submitTextNote.php on line 28
+[23-Nov-2016 06:36:39 UTC] PHP Warning:  file_put_contents(../userFiles/MTc5ODU1Y/tester.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 20
+[23-Nov-2016 06:36:39 UTC] PHP Warning:  file_put_contents(../userFiles/MTc5ODU1Y/tester.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 22
+[23-Nov-2016 06:36:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:20) in /home/f6team25/public_html/submitTextNote.php on line 28
+[23-Nov-2016 06:37:10 UTC] PHP Warning:  file_put_contents(../userFiles/MTc5ODU1Y/test.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 20
+[23-Nov-2016 06:37:10 UTC] PHP Warning:  file_put_contents(../userFiles/MTc5ODU1Y/test.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 22
+[23-Nov-2016 06:37:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:20) in /home/f6team25/public_html/submitTextNote.php on line 28
+[23-Nov-2016 06:45:34 UTC] PHP Warning:  mkdir(): Permission denied in /home/f6team25/public_html/submitTextNote.php on line 24
+[23-Nov-2016 06:45:34 UTC] PHP Warning:  mkdir(): Permission denied in /home/f6team25/public_html/submitTextNote.php on line 24
+[23-Nov-2016 06:45:34 UTC] PHP Warning:  file_put_contents(/../userFiles//.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 06:45:34 UTC] PHP Warning:  mkdir(): Permission denied in /home/f6team25/public_html/submitTextNote.php on line 24
+[23-Nov-2016 06:45:34 UTC] PHP Warning:  mkdir(): Permission denied in /home/f6team25/public_html/submitTextNote.php on line 24
+[23-Nov-2016 06:45:34 UTC] PHP Warning:  file_put_contents(/../userFiles//.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 06:45:34 UTC] PHP Warning:  mysqli::query(): Empty query in /home/f6team25/public_html/submitTextNote.php on line 34
+[23-Nov-2016 06:45:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:24) in /home/f6team25/public_html/submitTextNote.php on line 39
+[23-Nov-2016 06:46:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/f6team25/public_html/submitTextNote.php on line 32
+[23-Nov-2016 06:46:35 UTC] PHP Warning:  mkdir(): Permission denied in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 06:46:35 UTC] PHP Warning:  mkdir(): No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 06:46:35 UTC] PHP Warning:  file_put_contents(/../userFiles/MTc5ODU1Y/ZWU4OGIwZ.md): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 26
+[23-Nov-2016 06:46:35 UTC] PHP Warning:  mkdir(): Permission denied in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 06:46:35 UTC] PHP Warning:  mkdir(): No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 25
+[23-Nov-2016 06:46:35 UTC] PHP Warning:  file_put_contents(/../userFiles/MTc5ODU1Y/ZWU4OGIwZ.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/submitTextNote.php on line 26
+[23-Nov-2016 06:46:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/submitTextNote.php:25) in /home/f6team25/public_html/submitTextNote.php on line 41
+[23-Nov-2016 07:13:44 UTC] PHP Catchable fatal error:  Object of class Note could not be converted to string in /home/f6team25/public_html/nav.php on line 25
+[23-Nov-2016 07:16:48 UTC] PHP Fatal error:  Cannot use object of type Note as array in /home/f6team25/public_html/nav.php on line 25
+[23-Nov-2016 07:17:14 UTC] PHP Fatal error:  Undefined class constant 'noteid' in /home/f6team25/public_html/nav.php on line 25
+[23-Nov-2016 17:11:49 UTC] PHP Fatal error:  Cannot use [] for reading in /home/f6team25/public_html/populateNav.php on line 37
+[23-Nov-2016 17:16:37 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/f6team25/public_html/populateNav.php on line 39
+[23-Nov-2016 18:21:21 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/f6team25/public_html/nav.php on line 40
+[23-Nov-2016 18:23:57 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/f6team25/public_html/populateNav.php on line 37
+[23-Nov-2016 18:24:08 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/populateNav.php on line 38
+[23-Nov-2016 20:55:08 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/nav.php on line 43
+[23-Nov-2016 20:55:47 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/nav.php on line 43
+[23-Nov-2016 20:56:10 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/nav.php on line 43
+[23-Nov-2016 20:56:11 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/nav.php on line 43
+[23-Nov-2016 20:56:16 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/nav.php on line 43
+[23-Nov-2016 20:57:11 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/nav.php on line 43
+[23-Nov-2016 21:11:00 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/f6team25/public_html/nav.php on line 43
+[23-Nov-2016 21:11:22 UTC] PHP Parse error:  syntax error, unexpected '"</a></li>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/f6team25/public_html/nav.php on line 43
+[23-Nov-2016 21:12:05 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/f6team25/public_html/nav.php on line 43
+[23-Nov-2016 21:17:20 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/nav.php on line 43
+[23-Nov-2016 21:18:00 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/nav.php on line 43
+[24-Nov-2016 18:40:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 18:40:08 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/f6team25/public_html/editGroup.php on line 6
+[24-Nov-2016 18:40:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 18:40:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/f6team25/public_html/editGroup.php on line 6
+[24-Nov-2016 18:40:33 UTC] PHP Warning:  mysqli_prepare() expects exactly 2 parameters, 1 given in /home/f6team25/public_html/loginUser.php on line 8
+[24-Nov-2016 18:40:33 UTC] PHP Warning:  mysqli::query(): Empty query in /home/f6team25/public_html/loginUser.php on line 9
+[24-Nov-2016 18:40:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team25/public_html/loginUser.php on line 10
+[24-Nov-2016 18:51:15 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/f6team25/public_html/loginUser.php on line 10
+[24-Nov-2016 18:51:56 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/f6team25/public_html/loginUser.php on line 14
+[24-Nov-2016 18:57:56 UTC] PHP Catchable fatal error:  Object of class mysqli_stmt could not be converted to string in /home/f6team25/public_html/loginUser.php on line 16
+[24-Nov-2016 19:05:05 UTC] PHP Warning:  include_once(showNote.php): failed to open stream: No such file or directory in /home/f6team25/public_html/contentController.php on line 26
+[24-Nov-2016 19:05:05 UTC] PHP Warning:  include_once(): Failed opening 'showNote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team25/public_html/contentController.php on line 26
+[24-Nov-2016 19:05:54 UTC] PHP Warning:  file_get_contents(..//N2RjNDYyZ): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:07:30 UTC] PHP Warning:  file_get_contents(../userFiles//N2RjNDYyZ): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:07:48 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team25/public_html/loginUser.php on line 10
+[24-Nov-2016 19:07:58 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/N2RjNDYyZ): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:08:24 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/N2RjNDYyZphtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:08:27 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team25/public_html/loginUser.php on line 10
+[24-Nov-2016 19:08:32 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/N2RjNDYyZ.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:08:33 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/N2RjNDYyZ.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:08:33 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/N2RjNDYyZ.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:08:43 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/f6team25/public_html/loginUser.php on line 17
+[24-Nov-2016 19:09:21 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::mysqli_fetch_array() in /home/f6team25/public_html/loginUser.php on line 17
+[24-Nov-2016 19:09:56 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ZWU4OGIwZ.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:11:07 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 19:11:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/f6team25/public_html/editGroup.php on line 6
+[24-Nov-2016 19:11:55 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:12:14 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:12:26 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/f6team25/public_html/loginUser.php on line 10
+[24-Nov-2016 19:12:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:10) in /home/f6team25/public_html/loginUser.php on line 33
+[24-Nov-2016 19:13:16 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/f6team25/public_html/loginUser.php on line 10
+[24-Nov-2016 19:13:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:10) in /home/f6team25/public_html/loginUser.php on line 33
+[24-Nov-2016 19:14:17 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/f6team25/public_html/loginUser.php on line 10
+[24-Nov-2016 19:14:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:10) in /home/f6team25/public_html/loginUser.php on line 33
+[24-Nov-2016 19:14:26 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/f6team25/public_html/loginUser.php on line 10
+[24-Nov-2016 19:14:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:10) in /home/f6team25/public_html/loginUser.php on line 33
+[24-Nov-2016 19:14:29 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/f6team25/public_html/loginUser.php on line 10
+[24-Nov-2016 19:14:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:10) in /home/f6team25/public_html/loginUser.php on line 33
+[24-Nov-2016 19:15:28 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/f6team25/public_html/loginUser.php on line 11
+[24-Nov-2016 19:15:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:4) in /home/f6team25/public_html/loginUser.php on line 34
+[24-Nov-2016 19:15:50 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/f6team25/public_html/loginUser.php on line 11
+[24-Nov-2016 19:15:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:6) in /home/f6team25/public_html/loginUser.php on line 34
+[24-Nov-2016 19:16:31 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/f6team25/public_html/loginUser.php on line 11
+[24-Nov-2016 19:16:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:6) in /home/f6team25/public_html/loginUser.php on line 34
+[24-Nov-2016 19:16:52 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/f6team25/public_html/loginUser.php on line 12
+[24-Nov-2016 19:16:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:6) in /home/f6team25/public_html/loginUser.php on line 35
+[24-Nov-2016 19:17:15 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/f6team25/public_html/loginUser.php on line 10
+[24-Nov-2016 19:17:39 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/f6team25/public_html/loginUser.php on line 10
+[24-Nov-2016 19:17:45 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/f6team25/public_html/loginUser.php on line 12
+[24-Nov-2016 19:17:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:6) in /home/f6team25/public_html/loginUser.php on line 35
+[24-Nov-2016 19:18:23 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:18:26 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:18:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/loginUser.php:6) in /home/f6team25/public_html/loginUser.php on line 35
+[24-Nov-2016 19:21:02 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ODNkYTE0Z.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:25:14 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ODNkYTE0Z.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:25:15 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ODNkYTE0Z.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:25:16 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ODNkYTE0Z.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:25:17 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ODNkYTE0Z.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 3
+[24-Nov-2016 19:31:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 19:31:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/f6team25/public_html/editGroup.php on line 6
+[24-Nov-2016 19:56:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team25/public_html/include/connectDB.php:7) in /home/f6team25/public_html/loginUser.php on line 3
+[24-Nov-2016 19:56:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/include/connectDB.php:7) in /home/f6team25/public_html/loginUser.php on line 18
+[24-Nov-2016 19:56:29 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team25/public_html/include/closeDB.inc.php on line 3
+[24-Nov-2016 19:56:59 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team25/public_html/include/closeDB.inc.php on line 3
+[24-Nov-2016 20:00:43 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateNav.php on line 30
+[24-Nov-2016 20:00:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateNav.php on line 30
+[24-Nov-2016 20:00:57 UTC] PHP Fatal error:  Call to a member function query() on null in /home/f6team25/public_html/populateNav.php on line 34
+[24-Nov-2016 20:00:59 UTC] PHP Fatal error:  Call to a member function query() on null in /home/f6team25/public_html/populateNav.php on line 34
+[24-Nov-2016 20:01:44 UTC] PHP Fatal error:  Call to a member function query() on null in /home/f6team25/public_html/populateNav.php on line 34
+[24-Nov-2016 20:01:45 UTC] PHP Fatal error:  Call to a member function query() on null in /home/f6team25/public_html/populateNav.php on line 34
+[24-Nov-2016 20:01:51 UTC] PHP Fatal error:  Call to a member function query() on null in /home/f6team25/public_html/populateNav.php on line 34
+[24-Nov-2016 20:01:51 UTC] PHP Fatal error:  Call to a member function query() on null in /home/f6team25/public_html/populateNav.php on line 34
+[24-Nov-2016 20:01:52 UTC] PHP Fatal error:  Call to a member function query() on null in /home/f6team25/public_html/populateNav.php on line 34
+[24-Nov-2016 20:01:55 UTC] PHP Fatal error:  Call to a member function query() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 20:13:15 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/f6team25/public_html/editGroup.php on line 6
+[24-Nov-2016 20:16:07 UTC] PHP Fatal error:  Call to undefined method PDOStatement::prepare() in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 20:16:35 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 20:16:46 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/f6team25/public_html/editGroup.php on line 6
+[24-Nov-2016 20:16:47 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/f6team25/public_html/editGroup.php on line 6
+[24-Nov-2016 20:16:52 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/f6team25/public_html/editGroup.php on line 6
+[24-Nov-2016 20:32:25 UTC] PHP Fatal error:  Call to undefined method PDO::bindParam() in /home/f6team25/public_html/submitTextNote.php on line 20
+[24-Nov-2016 21:15:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/addUser.php:13) in /home/f6team25/public_html/addUser.php on line 20
+[24-Nov-2016 21:20:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/addUser.php:13) in /home/f6team25/public_html/addUser.php on line 20
+[24-Nov-2016 21:20:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/addUser.php:13) in /home/f6team25/public_html/addUser.php on line 20
+[24-Nov-2016 21:29:18 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:29:22 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:29:26 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:29:29 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:29:32 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:29:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:30:15 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:31:05 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:31:32 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:31:34 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:31:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:31:58 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 4
+[24-Nov-2016 21:32:40 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:32:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:33:18 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:33:19 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:33:21 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:33:40 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:34:01 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:34:38 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:35:30 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:35:31 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:35:41 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:36:05 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 21:36:19 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editGroup.php on line 5
+[24-Nov-2016 22:51:32 UTC] PHP Warning:  Illegal string offset 'name' in /home/f6team25/public_html/upload.php on line 5
+[24-Nov-2016 22:51:59 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 22:54:19 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 22:54:20 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 22:54:21 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 22:54:30 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 22:54:37 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 22:54:37 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 22:54:40 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 23:15:49 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 23:24:30 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/f6team25/public_html/upload.php on line 43
+[24-Nov-2016 23:31:49 UTC] PHP Warning:  file_get_contents(../userFiles/NmJhMjVlZ/ZmRlMDkxN.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 5
+[24-Nov-2016 23:32:02 UTC] PHP Warning:  file_get_contents(../userFiles/NmJhMjVlZ/ZmRlMDkxN.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 5
+[24-Nov-2016 23:33:19 UTC] PHP Warning:  file_get_contents(../userFiles/NmJhMjVlZ/ZmRlMDkxN.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 5
+[24-Nov-2016 23:33:21 UTC] PHP Warning:  file_get_contents(../userFiles/NmJhMjVlZ/ZmRlMDkxN.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 5
+[24-Nov-2016 23:35:13 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 23:35:44 UTC] PHP Warning:  file_get_contents(../userFiles/NmJhMjVlZ/ZmRlMDkxN.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 5
+[24-Nov-2016 23:36:18 UTC] PHP Warning:  file_get_contents(../userFiles/NmJhMjVlZ/ZmRlMDkxN.txt): failed to open stream: No such file or directory in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 23:36:49 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/f6team25/public_html/upload.php on line 42
+[24-Nov-2016 23:37:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/f6team25/public_html/upload.php on line 42
+[24-Nov-2016 23:37:06 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ZDY4.txt): failed to open stream: No such file or directory in /home/f6team25/public_html/editNote.php on line 4
+[24-Nov-2016 23:37:19 UTC] PHP Warning:  file_get_contents(../userFiles/NmJhMjVlZ/MzdmNTZmM.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 5
+[24-Nov-2016 23:39:16 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ZDY4.txt): failed to open stream: No such file or directory in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 23:39:19 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ZDY4.txt): failed to open stream: No such file or directory in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 23:39:20 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ZDY4.txt): failed to open stream: No such file or directory in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 23:41:11 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ZDY4.txt): failed to open stream: No such file or directory in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 23:44:21 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ZDY.txt): failed to open stream: No such file or directory in /home/f6team25/public_html/editNote.php on line 5
+[24-Nov-2016 23:46:58 UTC] PHP Warning:  file_get_contents(../userFiles/NmJhMjVlZ/MzdmNTZmM.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 5
+[24-Nov-2016 23:47:02 UTC] PHP Warning:  file_get_contents(../userFiles/NmJhMjVlZ/MzdmNTZmM.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 5
+[24-Nov-2016 23:47:35 UTC] PHP Warning:  file_get_contents(../userFiles/NmJhMjVlZ/MzdmNTZmM.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 5
+[25-Nov-2016 00:02:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 3
+[25-Nov-2016 00:02:35 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 3
+[25-Nov-2016 00:03:01 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 3
+[25-Nov-2016 00:03:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 3
+[25-Nov-2016 00:03:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 3
+[25-Nov-2016 00:03:05 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 3
+[25-Nov-2016 00:04:47 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 6
+[25-Nov-2016 00:04:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 6
+[25-Nov-2016 00:04:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 6
+[25-Nov-2016 00:06:15 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 6
+[25-Nov-2016 00:06:16 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 6
+[25-Nov-2016 00:06:57 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:12:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:14:28 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:14:29 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:14:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:14:52 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:14:53 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:15:31 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:15:35 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:15:45 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:18:25 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:20:17 UTC] PHP Warning:  file_get_contents(../userFiles//MTcyZTBhM.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 6
+[25-Nov-2016 00:20:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:20:45 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:21:07 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/f6team25/public_html/editNote.php on line 5
+[25-Nov-2016 00:42:18 UTC] PHP Warning:  file_get_contents(../userFiles/NmJhMjVlZ/MzdmNTZmM.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 6
+[25-Nov-2016 01:11:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/f6team25/public_html/populateUsers.php on line 20
+[25-Nov-2016 01:11:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/f6team25/public_html/populateUsers.php on line 20
+[25-Nov-2016 01:13:14 UTC] PHP Warning:  Illegal string offset 'i' in /home/f6team25/public_html/populateUsers.php on line 17
+[25-Nov-2016 01:18:49 UTC] PHP Warning:  Unterminated comment starting line 15 in /home/f6team25/public_html/populateUsers.php on line 15
+[25-Nov-2016 01:18:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team25/public_html/populateUsers.php:15) in /home/f6team25/public_html/populateUsers.php on line 2
+[25-Nov-2016 01:35:30 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/f6team25/public_html/populateUsers.php on line 19
+[25-Nov-2016 01:37:27 UTC] PHP Warning:  Illegal string offset 'userid' in /home/f6team25/public_html/populateUsers.php on line 16
+[25-Nov-2016 01:37:28 UTC] PHP Warning:  Illegal string offset 'userid' in /home/f6team25/public_html/populateUsers.php on line 16
+[25-Nov-2016 01:40:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/f6team25/public_html/editNote.php on line 42
+[25-Nov-2016 01:41:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/f6team25/public_html/editNote.php on line 42
+[25-Nov-2016 01:42:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/index.php:18) in /home/f6team25/public_html/editNote.php on line 41
+[25-Nov-2016 01:43:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/index.php:18) in /home/f6team25/public_html/editNote.php on line 41
+[25-Nov-2016 01:52:45 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/f6team25/public_html/populateUsers.php on line 21
+[25-Nov-2016 01:52:46 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/f6team25/public_html/populateUsers.php on line 21
+[25-Nov-2016 02:08:41 UTC] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/f6team25/public_html/updateNote.php on line 7
+[25-Nov-2016 02:08:41 UTC] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/f6team25/public_html/updateNote.php on line 9
+[25-Nov-2016 02:13:05 UTC] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/f6team25/public_html/updateNote.php on line 7
+[25-Nov-2016 02:13:06 UTC] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/f6team25/public_html/updateNote.php on line 9
+[25-Nov-2016 02:15:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/f6team25/public_html/updateNote.php on line 21
+[25-Nov-2016 02:59:45 UTC] PHP Parse error:  syntax error, unexpected 'groups' (T_STRING) in /home/f6team25/public_html/populateUsers.php on line 29
+[25-Nov-2016 03:00:06 UTC] PHP Parse error:  syntax error, unexpected 'groups' (T_STRING) in /home/f6team25/public_html/populateUsers.php on line 29
+[25-Nov-2016 03:08:18 UTC] PHP Warning:  array_flip(): Can only flip STRING and INTEGER values! in /home/f6team25/public_html/populateUsers.php on line 23
+[25-Nov-2016 03:08:18 UTC] PHP Warning:  array_flip(): Can only flip STRING and INTEGER values! in /home/f6team25/public_html/populateUsers.php on line 23
+[25-Nov-2016 03:08:18 UTC] PHP Warning:  array_flip(): Can only flip STRING and INTEGER values! in /home/f6team25/public_html/populateUsers.php on line 23
+[25-Nov-2016 03:08:18 UTC] PHP Warning:  array_flip(): Can only flip STRING and INTEGER values! in /home/f6team25/public_html/populateUsers.php on line 23
+[25-Nov-2016 03:08:18 UTC] PHP Warning:  array_flip(): Can only flip STRING and INTEGER values! in /home/f6team25/public_html/populateUsers.php on line 23
+[25-Nov-2016 03:08:18 UTC] PHP Warning:  array_flip(): Can only flip STRING and INTEGER values! in /home/f6team25/public_html/populateUsers.php on line 23
+[25-Nov-2016 03:08:18 UTC] PHP Warning:  array_flip(): Can only flip STRING and INTEGER values! in /home/f6team25/public_html/populateUsers.php on line 23
+[25-Nov-2016 03:11:37 UTC] PHP Fatal error:  Cannot use [] for reading in /home/f6team25/public_html/populateUsers.php on line 23
+[25-Nov-2016 03:17:24 UTC] PHP Warning:  include_once(populateGroupNotes): failed to open stream: No such file or directory in /home/f6team25/public_html/editGroup.php on line 23
+[25-Nov-2016 03:17:24 UTC] PHP Warning:  include_once(): Failed opening 'populateGroupNotes' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team25/public_html/editGroup.php on line 23
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for NWVhZWZjM.txt in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for NDEzMzYzN.txt in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for YjFlN2I1Z.phtml in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for ZDY4NjVhN.txt in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for YjFlN2I1Z.txt in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for NDhhMGNlZ.txt in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for NWVhZWZjM.phtml in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for NjNhZGMwM.txt in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for ZjIzYTU4M.txt in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for ZjIzYTU4M.phtml in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for NWUxZDBjZ.phtml in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for NDEzMzYzN.phtml in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for ZTE2OWNlO.phtml in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for NDhhMGNlZ.phtml in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for ZTE2OWNlO.txt in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for NjNhZGMwM.phtml in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for ODNkYTE0Z.txt in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for NWUxZDBjZ.txt in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for ZDY4NjVhN.phtml in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for sds in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:24:02 UTC] PHP Warning:  filetype(): Lstat failed for ODNkYTE0Z.phtml in /home/f6team25/public_html/populateGroupNotes.php on line 9
+[25-Nov-2016 03:49:03 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/NDhhMGNlZ.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 6
+[25-Nov-2016 03:51:44 UTC] PHP Warning:  file_get_contents(../groupFiles//NDhhMGNlZ.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 12
+[25-Nov-2016 04:20:02 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ZTE2OWNlO.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 12
+[25-Nov-2016 04:20:12 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/NDhhMGNlZ.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 12
+[25-Nov-2016 04:20:14 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ODNkYTE0Z.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 12
+[25-Nov-2016 04:20:16 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/NWVhZWZjM.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 12
+[25-Nov-2016 14:36:43 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/deleteNote.php on line 8
+[25-Nov-2016 14:37:50 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/deleteNote.php on line 8
+[25-Nov-2016 14:39:58 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/f6team25/public_html/deleteNote.php on line 7
+[25-Nov-2016 14:43:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/index.php:18) in /home/f6team25/public_html/deleteNote.php on line 22
+[25-Nov-2016 14:44:37 UTC] PHP Warning:  file_get_contents(../userFiles/MTc5ODU1Y/ZjIzYTU4M.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 12
+[25-Nov-2016 14:52:30 UTC] PHP Parse error:  syntax error, unexpected '$group' (T_VARIABLE), expecting ',' or ';' in /home/f6team25/public_html/populateUsers.php on line 6
+[25-Nov-2016 15:08:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/addUser.php:13) in /home/f6team25/public_html/addUser.php on line 22
+[25-Nov-2016 15:13:43 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/populateNav.php on line 40
+[25-Nov-2016 15:29:45 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/populateNav.php on line 40
+[25-Nov-2016 15:31:44 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/populateNav.php on line 40
+[25-Nov-2016 15:31:45 UTC] PHP Catchable fatal error:  Object of class Group could not be converted to string in /home/f6team25/public_html/populateNav.php on line 40
+[25-Nov-2016 16:13:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:13:30 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 19
+[25-Nov-2016 16:18:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 13
+[25-Nov-2016 16:18:42 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[25-Nov-2016 16:18:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 13
+[25-Nov-2016 16:18:51 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[25-Nov-2016 16:24:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:24:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:25:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:25:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:25:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:25:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:27:23 UTC] PHP Warning:  unlink(../userFiles/MTc5ODU1Y/ZjIzYTU4M.phtml): No such file or directory in /home/f6team25/public_html/deleteNote.php on line 19
+[25-Nov-2016 16:27:23 UTC] PHP Warning:  unlink(../userFiles/MTc5ODU1Y/ZjIzYTU4M.txt): No such file or directory in /home/f6team25/public_html/deleteNote.php on line 20
+[25-Nov-2016 16:27:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/deleteNote.php:19) in /home/f6team25/public_html/deleteNote.php on line 22
+[25-Nov-2016 16:27:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:29:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:29:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:39:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:39:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:39:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:49:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:50:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:57:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:57:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:57:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:57:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:58:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 16:59:11 UTC] PHP Warning:  copy(../userFiles//ZDY4NjVhN.txt): failed to open stream: No such file or directory in /home/f6team25/public_html/addNoteToGroup.php on line 6
+[25-Nov-2016 16:59:11 UTC] PHP Warning:  copy(../userFiles//ZDY4NjVhN.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/addNoteToGroup.php on line 7
+[25-Nov-2016 17:00:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 17:01:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 17:01:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 17:01:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 17:02:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 17:02:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 17:03:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 17:03:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 17:03:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 17:03:29 UTC] PHP Warning:  copy(../userFiles/NmJhMjVlZ/MGE3MjEzN.txt): failed to open stream: No such file or directory in /home/f6team25/public_html/addNoteToGroup.php on line 7
+[25-Nov-2016 17:03:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 17:03:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 17:04:29 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateNav.php on line 40
+[25-Nov-2016 17:04:29 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateNav.php on line 41
+[25-Nov-2016 17:04:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:41:49 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateNav.php on line 40
+[25-Nov-2016 18:41:49 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateNav.php on line 41
+[25-Nov-2016 18:41:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:42:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:42:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:42:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:42:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:42:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:42:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:42:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:42:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:42:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:42:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:43:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 18:43:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 19:31:46 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateNav.php on line 40
+[25-Nov-2016 19:31:46 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateNav.php on line 41
+[25-Nov-2016 19:31:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 19:31:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateNav.php on line 40
+[25-Nov-2016 19:31:48 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateNav.php on line 41
+[25-Nov-2016 19:31:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 19:32:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 19:32:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 19:37:16 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/f6team25/public_html/nav.php on line 62
+[25-Nov-2016 19:37:17 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/f6team25/public_html/nav.php on line 62
+[25-Nov-2016 19:37:20 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/f6team25/public_html/nav.php on line 62
+[25-Nov-2016 19:54:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 19:59:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 19:59:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:00:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:00:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:00:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:09:41 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 32
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:10:57 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 31
+[25-Nov-2016 20:11:00 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:11:03 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:11:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:11:06 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:11:07 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:11:08 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:11:10 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:11:11 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 14
+[25-Nov-2016 20:13:24 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 15
+[25-Nov-2016 20:13:52 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 15
+[25-Nov-2016 20:13:53 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 15
+[25-Nov-2016 20:13:54 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 15
+[25-Nov-2016 20:13:58 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 15
+[25-Nov-2016 20:13:58 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 15
+[25-Nov-2016 20:14:52 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/f6team25/public_html/populateTags.php on line 15
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:15:35 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateGroupNotes.php on line 29
+[25-Nov-2016 20:16:17 UTC] PHP Warning:  file_get_contents(../groupFiles/ZGFmNTllN/Tags Example.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 12
+[25-Nov-2016 20:23:12 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 19
+[25-Nov-2016 20:23:12 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 19
+[25-Nov-2016 20:23:12 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 19
+[25-Nov-2016 20:23:36 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 19
+[25-Nov-2016 20:23:36 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 19
+[25-Nov-2016 20:24:16 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 19
+[25-Nov-2016 20:24:16 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 19
+[25-Nov-2016 20:24:16 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 19
+[25-Nov-2016 20:24:22 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:24:22 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:24:23 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:24:23 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:24:29 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:24:29 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:24:31 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:24:31 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:24:31 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:24:48 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:24:48 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:25:29 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:25:39 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:25:44 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:25:59 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:26:03 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:26:04 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:26:09 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:26:10 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:26:19 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:26:21 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:26:22 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:26:25 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:26:36 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:26:45 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:26:47 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:27:03 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:27:12 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:27:24 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:27:30 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:27:34 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:27:36 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:27:40 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:27:49 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:28:31 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/f6team25/public_html/populateTags.php on line 20
+[25-Nov-2016 20:36:12 UTC] PHP Warning:  unlink(../groupFiles//NjNhZGMwM.phtml): No such file or directory in /home/f6team25/public_html/deleteNote.php on line 19
+[25-Nov-2016 20:36:12 UTC] PHP Warning:  unlink(../groupFiles//NjNhZGMwM.txt): No such file or directory in /home/f6team25/public_html/deleteNote.php on line 20
+[25-Nov-2016 20:36:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/deleteNote.php:19) in /home/f6team25/public_html/deleteNote.php on line 22
+[25-Nov-2016 20:56:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/f6team25/public_html/findTags.php on line 12
+[25-Nov-2016 21:37:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/f6team25/public_html/upload.php on line 50
+[25-Nov-2016 21:40:09 UTC] PHP Warning:  file_get_contents(../userFiles/YmExYjYyM/ZmI2ODgyMtxt): failed to open stream: No such file or directory in /home/f6team25/public_html/upload.php on line 50
+[25-Nov-2016 21:55:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/f6team25/public_html/findTags.php on line 19
+[26-Nov-2016 00:24:18 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 00:24:18 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[26-Nov-2016 00:30:23 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 00:30:23 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[26-Nov-2016 00:30:28 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 00:30:28 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[26-Nov-2016 00:30:30 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 00:30:30 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[26-Nov-2016 00:30:36 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 00:30:36 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[26-Nov-2016 00:30:37 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 00:30:37 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[26-Nov-2016 00:30:39 UTC] PHP Warning:  unlink(../userFiles/MTc5ODU1Y/NDEzMzYzN.phtml): No such file or directory in /home/f6team25/public_html/deleteNote.php on line 19
+[26-Nov-2016 00:30:39 UTC] PHP Warning:  unlink(../userFiles/MTc5ODU1Y/NDEzMzYzN.txt): No such file or directory in /home/f6team25/public_html/deleteNote.php on line 20
+[26-Nov-2016 00:30:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/deleteNote.php:19) in /home/f6team25/public_html/deleteNote.php on line 22
+[26-Nov-2016 00:30:43 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 00:30:43 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[26-Nov-2016 00:30:46 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 00:30:46 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[26-Nov-2016 00:30:47 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 00:30:47 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[26-Nov-2016 00:30:48 UTC] PHP Warning:  unlink(../userFiles/MTc5ODU1Y/NWVhZWZjM.phtml): No such file or directory in /home/f6team25/public_html/deleteNote.php on line 19
+[26-Nov-2016 00:30:48 UTC] PHP Warning:  unlink(../userFiles/MTc5ODU1Y/NWVhZWZjM.txt): No such file or directory in /home/f6team25/public_html/deleteNote.php on line 20
+[26-Nov-2016 00:30:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/deleteNote.php:19) in /home/f6team25/public_html/deleteNote.php on line 22
+[26-Nov-2016 00:30:51 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 00:30:51 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[26-Nov-2016 19:13:42 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 19:13:42 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[26-Nov-2016 19:13:49 UTC] PHP Warning:  array_merge() expects at least 1 parameter, 0 given in /home/f6team25/public_html/populateTags.php on line 17
+[26-Nov-2016 19:13:49 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/f6team25/public_html/populateTags.php on line 18
+[27-Nov-2016 15:33:16 UTC] PHP Warning:  file_get_contents(../userFiles//MDcxZDYxM.phtml): failed to open stream: No such file or directory in /home/f6team25/public_html/showNote.php on line 12
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:28 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:12:59 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:13:03 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:16 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:14:24 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:07 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:21 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:29 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:30 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[27-Nov-2016 20:15:44 UTC] PHP Warning:  Unexpected character in input:  ' in /home/f6team25/public_html/populateTags.php on line 24
+[28-Nov-2016 17:50:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/parse.php:10) in /home/f6team25/public_html/submitTextNote.php on line 33
+[28-Nov-2016 17:52:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/parse.php:10) in /home/f6team25/public_html/submitTextNote.php on line 33
+[28-Nov-2016 17:52:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team25/public_html/parse.php:10) in /home/f6team25/public_html/updateNote.php on line 21
