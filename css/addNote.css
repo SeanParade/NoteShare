@@ -1,0 +1,50 @@
+.noteHeader {
+    display: block;
+    float: right;
+    padding-right: 10px;
+    border-top: solid;
+    width: 100%;
+    text-align: right;
+    vertical-align: top;
+    border-right : solid;
+    border-color: rosybrown;
+    border-width: 10px;
+    border-radius:6px;
+}
+
+
+#noteTitleField{
+    font-size: 1.8em;
+    background-color: transparent;
+    font-family: 'Pompiere', cursive;
+    font-weight: bold;
+    width: 100%;
+    text-align: right;
+    border: none;
+}
+
+
+#noteTitleField:focus{
+    outline: none;
+}
+
+
+#noteTextField{
+    width:98%;
+    background-color: rgba(255,255,255,0.6);
+    border-radius: 5px;
+    margin: 0 auto;
+    height: 70vh;
+}
+
+#submitButton{
+    display:inline-block;
+    float: right;
+    margin-right: 2% ;
+    background-color: rosybrown;
+    color:white;
+    border: none;
+    border-radius: 6px;
+    padding: 5px;
+    vertical-align: middle;
+}

@@ -1,0 +1,29 @@
+@import url("min/bootstrap.min.css");
+@import url("nav.css");
+@import url("addNote.css");
+@import url("addGroup.css");
+
+body{
+  background-color: #ddd;
+  background-image: url("../img/workspacebg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.container{
+  padding-left: 0;
+  margin-left: 5px;
+  margin-right: 0;
+  width:100vw;
+}
+
+.content{
+  height:100vh;
+  overflow-y: scroll;
+  padding: 20px;
+  margin-right: 0;
+}

@@ -1,0 +1,160 @@
+nav{
+    float: left;
+    display: block;
+    width: 20vw;
+    min-width: 220px ;
+    height: 100vh;
+    left:0;
+    padding: 0;
+    margin: 0;
+    border-right: solid;
+    border-color: #444;
+    border-width: 2px;
+    margin-right: 10px;
+    overflow-y: scroll ;
+    overflow-x: hidden;
+    background-color: rgba(255,255,255,0.4);
+    text-overflow: ellipsis;
+}
+
+.navControl{
+    background-color: rosybrown;
+    padding-left:10px ;
+    border-radius: 8px 0 8px 0;
+}
+
+.navLogo{
+    margin-left: 10px;
+}
+
+.settingsGear{
+    display:block;
+    float:right;
+    margin: 5px 10px 0 0;
+}
+
+a.logOut {
+    display: block;
+    float: right;
+}
+
+
+/* Let's get this party started */
+::-webkit-scrollbar {
+    width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.8);
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(255,0,0,0.4);
+}
+
+.navHeader{
+    color:#333;
+    font-family: 'Pompiere', cursive;
+    font-size: 2.3em;
+    text-transform: uppercase;
+    border-left: solid;
+    border-color: rosybrown;
+    padding-left: 10px;
+    border-bottom: solid ;
+    border-left-width: 8px;
+    border-bottom-width: 2px;
+    font-weight:bold;
+
+}
+
+.addGroup{
+    display: block;
+    float: right;
+    margin-right:10px;
+    font-size: 1em;
+    color: black;
+    font-family: monospace;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+li{
+    list-style: none;
+}
+
+.addItem{
+    display: block;
+    float: right;
+    margin-right:10px;
+    font-size: 1em;
+    color: black;
+    font-family: monospace;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.navItem, .navItem>a{
+    text-decoration: none;
+    font-family: monospace;
+    font-weight: bold;
+    list-style: none;
+    color: #333;
+    width: 150px;
+    overflow: hidden;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+
+.navItem>a{
+    border-bottom:solid;
+    border-left: solid;
+    border-left-color: cyan;
+    border-left-width: 8px;
+}
+
+.navNoteSection{
+    margin-bottom: 10vh;
+    padding-left: 20px;
+}
+.navGroupHeader{
+    color: #333;
+    width:100%;
+    text-transform: uppercase;
+    font-family: 'Pompiere', cursive;
+    font-size: 1.3em;
+    font-weight:bold;
+    list-style: none;
+    margin-top: 10px;
+    padding: 5px 5px 5px 10px;
+    border-left: solid;
+    border-left-width: 8px;
+    border-left-color: #c0bb5e;
+    border-bottom: solid ;
+    border-bottom-width: 2px;
+}
+.navGroupHeaderp{
+    max-width: 200px;
+    overflow:hidden;
+    text-overflow: ellipsis;
+}
+
+.pencil>img{
+    display: inline-block;
+    float: right;
+    margin-right: 8px;
+    margin-top: 3px;
+    opacity: 0.8;
+}
+

@@ -1,0 +1,13 @@
+Task ID,Created At,Completed At,Last Modified,Name,Assignee,Due Date,Tags,Notes,Projects,Parent Task
+204192766128224,2016-10-28,,2016-10-28,Plan overall app goal,Sean Price,2016-11-02,,List out the exact details of how we want the app to function and look as well as what is feasible given the timeline,PHP Group Assignment,
+204192766128226,2016-10-28,,2016-10-28,Plan front end structure,lildude113,2016-10-30,,Plan what the overall look of the app should be and how the features should be implemented in the design,PHP Group Assignment,
+204192766128228,2016-10-28,,2016-10-28,Plan back end structure,Sean Price,2016-11-09,,Decide what will be needed in order to implement every feature that we want in the app. ,PHP Group Assignment,
+204192766128230,2016-10-28,,2016-10-28,Write skeleton structure of the app,lildude113,2016-11-13,,,PHP Group Assignment,
+204192766128237,2016-10-28,,2016-10-28, Markdown parser,Sean Price,2016-11-17,,,PHP Group Assignment,
+204192766128239,2016-10-28,,2016-10-28,Server side storage,Sean Price,2016-11-20,,,PHP Group Assignment,
+204192766128241,2016-10-28,,2016-10-28,Personal Accounts,lildude113,2016-11-24,,,PHP Group Assignment,
+204192766128245,2016-10-28,,2016-10-28,Group Accounts,lildude113,2016-11-25,,,PHP Group Assignment,
+204192766128247,2016-10-28,,2016-10-28,File sharing,Sean Price,2016-12-01,,,PHP Group Assignment,
+204192766128249,2016-10-28,,2016-10-28,CSS,lildude113,2016-12-06,,,PHP Group Assignment,
+204192766128251,2016-10-28,,2016-10-28,Testing,Sean Price,2016-12-09,,,PHP Group Assignment,
+204192766128243,2016-10-28,,2016-10-28,,,,,,PHP Group Assignment,
